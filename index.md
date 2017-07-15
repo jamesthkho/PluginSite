@@ -13,13 +13,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Alpha Omega is a set of twenty four pluging that are most essential for server. These plugin range from a custom join message (Beta) to a custom minigame (Omega) plugin. The plugins are named in order of the greek alphabet, **Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega.** Informaation about the plugins will be provided in their repostory or if you press download aboce you get all the plugins and their descriptions.
 
-## [](#header-2)Header 2
+## [](#header-1)What do people say?
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### [](#header-3)What are the Alpha Omega plugins made with?
 
 ```js
 // Javascript code with syntax highlighting.
