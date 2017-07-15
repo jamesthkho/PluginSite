@@ -18,7 +18,7 @@ Alpha Omega is a set of twenty four pluging that are most essential for server. 
 
 > Alpha Omega give my server all that it needed in the end we didn't even need essentials anymore! It alowed my server to be fully custom!
 >
->                               -RyzenNetwork
+>                               RyzenNetwork
 
 ### [](#header-3)What are the Alpha Omega plugins made with?
 
