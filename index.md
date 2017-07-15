@@ -9,9 +9,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
+# [](#header-1)What is Alpha Omega 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Alpha Omega is a set of twenty four pluging that are most essential for server. These plugin range from a custom join message (Beta) to a custom minigame (Omega) plugin. The plugins are named in order of the greek alphabet, **Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega.** Informaation about the plugins will be provided in their repostory or if you press download aboce you get all the plugins and their descriptions.
 
 ## [](#header-2)Header 2
 
