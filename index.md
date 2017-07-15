@@ -1,14 +1,6 @@
 ---
 layout: default
 ---
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # [](#header-1)What is Alpha Omega 
 
 Alpha Omega is a set of twenty four pluging that are most essential for server. These plugin range from a custom join message (Beta) to a custom minigame (Omega) plugin. The plugins are named in order of the greek alphabet, **Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega.** Informaation about the plugins will be provided in their repostory or if you press download aboce you get all the plugins and their descriptions.
