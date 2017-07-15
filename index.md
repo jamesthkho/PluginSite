@@ -22,11 +22,11 @@ Alpha Omega is a set of twenty four pluging that are most essential for server. 
 
 ### [](#header-3)What are the Alpha Omega plugins made with?
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+```java
+// Made with a buch of Java!
+if ((label.equalsIgnoreCase("discord")) && 
+   (!(sender instanceof Player))) {
+   sender.sendMessage("You Cant do That Command Console Bye");
 }
 ```
 
