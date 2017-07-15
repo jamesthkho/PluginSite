@@ -37,11 +37,15 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### [](#header-4)Header 4
+#### [](#header-4)About the Developer
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+```yml
+# name: James Th Kho
+# birthday: July 14, 2001
+# contact: HyungKim(윤김형)#2065 jamesthkho@gmail.com (510)415-3313
+# languages: HTML CSS JS JAVA C++ C# PYTHON RUBY
+end
+```
 
 ##### [](#header-5)Header 5
 
