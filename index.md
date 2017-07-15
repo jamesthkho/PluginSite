@@ -12,12 +12,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # [](#header-1)What is Alpha Omega 
 
 Alpha Omega is a set of twenty four pluging that are most essential for server. These plugin range from a custom join message (Beta) to a custom minigame (Omega) plugin. The plugins are named in order of the greek alphabet, **Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega.** Informaation about the plugins will be provided in their repostory or if you press download aboce you get all the plugins and their descriptions.
+ 
+ 
+## [](#header-2)What do people say?
 
-## [](#header-1)What do people say?
-
-> This is a blockquote following a header.
+> Alpha Omega give my server all that it needed in the end we didn't even need essentials anymore! It alowed my server to be fully custom!
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+>                               -RyzenNetwork
 
 ### [](#header-3)What are the Alpha Omega plugins made with?
 
