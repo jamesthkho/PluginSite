@@ -38,5 +38,18 @@ if ((label.equalsIgnoreCase("discord")) &&
 # contact: HyungKim(윤김형)#2065 jamesthkho@gmail.com (510)415-3313
 # languages: HTML CSS JS JAVA C++ C# PYTHON RUBY
 ```
+###### [](#header-6)Completed and Incompleated Plugins
 
+| alpha        | beta              | completed  |
+| gamma        | delta             | patial     |
+| epsilon      | zeta              | completed  |
+| eta          | theta             | beta mode  |
+| iota         | kappa `    `      | incomplete |
+| lambda       | mu                | completed  |
+| nu           | xi                | completed  |
+| omicron      | pi                | patial     |
+| rho          | sigma             | completed  |
+| tau          | ipsilon           | incomplete |
+| phi          | chi               | beta mode  |
+| psi          | omega             | completed  |
 
